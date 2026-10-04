@@ -1,5 +1,7 @@
+<h1 align="center">Hey, I’m Shahmirrrr 👋</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0f172a%2C45%3A7c3aed%2C100%3A06b6d4&height=240&section=header&text=SHAHMIRRRR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20web%20experiences%20%26%20smart%20ideas&descSize=19&descAlignY=60" alt="Shahmirrrr profile banner" />
+  <img src="https://img.shields.io/badge/SHAHMIRRRR-WEB%20DEVELOPER-7c3aed?style=for-the-badge&labelColor=0f172a&logo=github&logoColor=white" alt="SHAHMIRRRR — Web Developer" />
 </p>
 
 <p align="center">
