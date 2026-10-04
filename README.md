@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://github.com/shahmirrrr"><img src="https://img.shields.io/badge/GitHub-shahmirrrr-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <img src="https://komarev.com/ghpvc/?username=shahmirrrr&style=for-the-badge&color=7c3aed" alt="Profile views" />
 </p>
 
 ## ✦ About me
