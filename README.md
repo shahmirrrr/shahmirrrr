@@ -1,16 +1,51 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0f172a%2C45%3A7c3aed%2C100%3A06b6d4&height=240&section=header&text=SHAHMIRRRR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20web%20experiences%20%26%20smart%20ideas&descSize=19&descAlignY=60" alt="Shahmirrrr profile banner" />
+</p>
 
-<!--
-**shahmirrrr/shahmirrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=720&lines=Web+developer+in+progress.;Creating+interactive+projects+one+commit+at+a+time.;Learning%2C+building%2C+and+shipping." alt="Animated introduction" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/shahmirrrr"><img src="https://img.shields.io/badge/GitHub-shahmirrrr-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <img src="https://komarev.com/ghpvc/?username=shahmirrrr&style=for-the-badge&color=7c3aed" alt="Profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✦ About me
+
+- 🔭 Building web projects and turning ideas into real interfaces.
+- 🌱 Growing through JavaScript, full-stack development, and hands-on experiments.
+- 🧠 Interested in creative UI, useful tools, and smart web experiences.
+- 🤝 Always learning, improving, and open to thoughtful collaboration.
+
+---
+
+## ⚡ Tech I’m working with
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=e34f26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=5fa04e" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47a248" alt="MongoDB" />
+</p>
+
+---
+
+## 🚀 Featured builds
+
+| Project | What it is |
+| --- | --- |
+| [Space Portfolio](https://github.com/shahmirrrr/space-portfolio) | A futuristic full-stack portfolio site built with React, Node.js, and MongoDB. |
+| [AI Health Dashboard](https://github.com/shahmirrrr/ai-healthdashboard) | An AI-focused health dashboard project built with JavaScript. |
+| [FSWD Lab](https://github.com/shahmirrrr/FSWD-lab) | Full-stack web development coursework, practice, and experiments. |
+
+---
+
+<p align="center">
+  <i>Small steps. Real projects. Better every day.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A06b6d4%2C50%3A7c3aed%2C100%3A0f172a&height=120&section=footer" alt="Colorful footer" />
+</p>
