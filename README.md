@@ -46,7 +46,3 @@
 <p align="center">
   <i>Small steps. Real projects. Better every day.</i>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A06b6d4%2C50%3A7c3aed%2C100%3A0f172a&height=120&section=footer" alt="Colorful footer" />
-</p>
